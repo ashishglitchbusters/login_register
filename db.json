@@ -1,0 +1,14 @@
+{
+  "user": [
+    {
+      "id": "Ashish",
+      "name": "Ashish",
+      "password": "Asish",
+      "email": "ashish@gmail.com",
+      "phone": "000000000",
+      "country": "India",
+      "address": "Umarkhed",
+      "gender": "male"
+    }
+  ]
+}
